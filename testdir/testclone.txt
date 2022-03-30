@@ -1,0 +1,10 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is 3240-AEBB
+
+ Directory of C:\testclone\githubactions\testdir
+
+30/03/2022  04:55 PM    <DIR>          .
+30/03/2022  04:55 PM    <DIR>          ..
+30/03/2022  04:55 PM                 0 testclone.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  405,771,386,880 bytes free
