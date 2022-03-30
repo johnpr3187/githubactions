@@ -5,9 +5,6 @@
 // az group delete --name rgmkv
 
 
-
-
-
 //@description('Specifies the name of the key vault.')
 param keyVaultName string = 'kvtest3187jrp'
 
