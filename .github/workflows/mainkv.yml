@@ -19,6 +19,6 @@ jobs:
       with:
         subscriptionId: ${{ secrets.AZURE_SUBSCRIPTION }}
         resourceGroupName: ${{ secrets.AZURE_RG }}
-        template: ./main.kv.bicep
+        template: ./keyvault/main.kv.bicep
         parameters: storagePrefix=mystore
         failOnStdErr: false
