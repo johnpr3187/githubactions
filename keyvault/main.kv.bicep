@@ -69,7 +69,7 @@ param secretValue string = 'freddofrog'
 param resourceTags object ={
   EnvironmentName: 'demo'
   CostCenter: 'test'
-  Team: 'ATeam3'
+  Team: 'ATeam1'
 }
 
 
