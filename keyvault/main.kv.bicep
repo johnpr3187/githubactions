@@ -19,8 +19,6 @@ param location string = resourceGroup().location
 */
 param skuName string = 'standard'
 
-
-
 //@description('Specifies whether Azure Virtual Machines are permitted to retrieve certificates stored as secrets from the key vault.')
 param enabledForDeployment bool = false
 
